@@ -1,2 +1,4 @@
 tabulate
 typing_extensions; python_version < '3.8'
+fastapi
+uvicorn[standard]
